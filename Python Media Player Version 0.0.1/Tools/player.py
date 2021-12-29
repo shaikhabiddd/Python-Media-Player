@@ -117,7 +117,7 @@ class mediaplayer:
                 pass
             
             except Exception as e:
-                print e
+                print 
                 pass
         
     
